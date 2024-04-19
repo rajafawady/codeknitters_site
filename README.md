@@ -1,4 +1,4 @@
-# CodeKnitters - Next.js Website Template
+# CodeKnitters - Next.js Website
 
 Welcome to CodeKnitters, a premium-quality website crafted with Next.js. Comprehensive company portfolio website showcasing our brand identity, services, and achievements.
 ## ✨ Key Features
